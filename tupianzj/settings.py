@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'tupianzj.spiders'
 MONGO_URI = 'localhost'
 MONGO_DB = 'tpzj'
 
-IMAGES_STORE = 'L:\\tupianzj'
+IMAGES_STORE = 'D:\\tupianzj'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tupianzj (+http://www.yourdomain.com)'
