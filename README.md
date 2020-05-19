@@ -10,7 +10,7 @@ MONGO_URI = 'localhost'
 
 MONGO_DB = 'tpzj'
 
-IMAGES_STORE = 'L:\\tupianzj'
+IMAGES_STORE = 'D:\\tupianzj'
 
 运行：
 python run.py
