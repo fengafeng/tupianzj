@@ -70,8 +70,8 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'tupianzj.pipelines.TupianzjPipeline': 300,
-   'tupianzj.pipelines.DownImagePipeline': 400,
-   'tupianzj.pipelines.MongoPipeline': 500,
+   'tupianzj.pipelines.DownImagePipeline': 301,
+   'tupianzj.pipelines.MongoPipeline': 302,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
